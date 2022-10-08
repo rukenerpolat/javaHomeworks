@@ -1,6 +1,6 @@
 # javaHomeworks
 
-Bu ödev, <a href="https://github.com/engindemirog" src="link">Engin Demiroğ</a> 'un <a href="https://www.youtube.com/watch?v=-XfPd-cQRuo&list=PLqG356ExoxZUGztzAxqIWkkTq8JVa-o3X" src="link">Java-2022</a> 
+Bu repo, <a href="https://github.com/engindemirog" src="link">Engin Demiroğ</a>'un <a href="https://www.youtube.com/watch?v=-XfPd-cQRuo&list=PLqG356ExoxZUGztzAxqIWkkTq8JVa-o3X" src="link">Java-2022</a> 
 kursu kapsamında, 3. haftanın,   
 Nesne tabanlı programlama (Object Oriented Programming: OOP) ödev teslim kodlarıdır.
 
@@ -32,8 +32,8 @@ Pillars of OOPs
   <li>Önceki derste yaptığımız tekniklerle hem jdbc hem de hibernate üzerinde yazmış gibi simüle ediniz.</li>
   <li>Çoklu loglama yapısını simule ediniz.</li>
 </ol>
-
-Ayrıca;
+</br>
+Ayrıca;  
 
 <ul>
   <li>Kurs ismi tekrar edemez.</li>
