@@ -10,16 +10,15 @@ Bu ödev sayesinde OOP kavramları pekiştirildi:
 <li>Class</li>
 <li>Object </li>
 <li>Method and method passing</li>
-<ol>
-Pillars of OOPs
+<li>Pillars of OOPs
    <ul>
       <li>Abstraction (Soyutlama)</li>
       <li>Encapsulation(Kapsülleme)</li>
       <li>Inheritance (Miras Alma)</li>
       <li>Polymorphism(Çok Biçimlilik)</li>    
    </ul>
- </li>
 </li>
+<ol>   
 
 </br>
 
