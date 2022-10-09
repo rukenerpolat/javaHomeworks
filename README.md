@@ -10,7 +10,7 @@ Bu ödev sayesinde OOP kavramları pekiştirildi:
 <li>Class</li>
 <li>Object </li>
 <li>Method and method passing</li>
-<li>
+<ol>
 Pillars of OOPs
    <ul>
       <li>Abstraction (Soyutlama)</li>
